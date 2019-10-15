@@ -1,35 +1,32 @@
-company: Shutterstock
-  name: Team Magic Hat
-  logo: Cornell_NYC_Tech_logo.png
-product_hmw: 
-How might we enable creatives, designers, and marketers to create customized visual content quickly, easily, and cost-effectively?
+company:
+  name: Team 73
+  logo: ./pics/shutterstock_logo.png
+product_hmw: How might we enable creatives, designers, and marketers to create customized visual content quickly, easily, and cost-effectively?
 product_narrative: |
-  TBD
+  We will update it soon. Please check back later. Thanks!
 team:
-  picture: E383E868-.jpg
+  picture: ./pics/group_73.jpg
   roster:
   - name: Wenyi Chu
-    email: xxx@cornell.edu
-    picture: rachel.jpg
+    email: wc625@cornell.edu
+    picture: ./pics/wenyi.jpg
     program: CM
   - name: Mike Kosnik
-    email: xxx@cornell.edu
-    picture: arnaud.png
+    email: mbk233@cornell.edu
+    picture: ./pics/mike.jpg
     program: MBA
   - name: Mimi Shih
-    email: xxx@cornell.edu
-    picture: arnaud.png
+    email: shihm042@newschool.edu
+    picture: ./pics/mimi.jpg
     program: Design
   - name: Alice Song
     email: as2855@cornell.edu
-    picture: arnaud.png
+    picture: ./pics/alice.jpg
     program: CS
   - name: Yuxin Zhang
-    email: xxx@cornell.edu
-    picture: arnaud.png
+    email: yz2579@cornell.edu
+    picture: ./pics/yuxin.jpg
     program: ECE
 assets:
 - title: Sprint 1
-  url: https://tech.cornell.edu/
-- title: Sprint 2
-  url: https://tech.cornell.edu/jacobs-technion-cornell-institute/
+  url: https://docs.google.com/presentation/d/1EriUzgmnLR5J3QZpuKdbCy3xcC4HYbC-dkcQY_XVAn8/edit?usp=sharing
