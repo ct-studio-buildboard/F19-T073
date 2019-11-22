@@ -1,9 +1,10 @@
 company:
-  name: 73 | Shutterstock
+  name: Magicians
   logo: shutterstock_logo.png
 product_hmw: How might we enable creatives, designers, and marketers to create customized visual content quickly, easily, and cost-effectively?
 product_narrative: |
-  We will update it soon. Please check back later. Thanks!
+  Magic Hat is a desktop application that generates customized filters. 
+  It captures the style of reference photo that users upload, and applies that style back to the photo they want to edit. 
 team:
   picture: group_73.jpg
   roster:
@@ -32,3 +33,6 @@ assets:
   url: https://docs.google.com/presentation/d/1EriUzgmnLR5J3QZpuKdbCy3xcC4HYbC-dkcQY_XVAn8/edit?usp=sharing
 - title: Sprint 2
   url: https://docs.google.com/presentation/d/125zQmM53eZ8WdsWGurLXDWWSemfwb8lKYCWqCnEkLWc/edit?usp=sharing
+- title: Sprint 3
+  url: https://docs.google.com/presentation/d/1w_8Ao8829OUUp25c0_MGEL7j-QSBy7WMkoQYgZhi92U/edit?usp=sharing
+
