@@ -3,30 +3,30 @@ company:
   logo: shutterstock_logo.png
 product_hmw: How might we enable creatives, designers, and marketers to create customized visual content quickly, easily, and cost-effectively?
 product_narrative: |
-  Magic Hat is a desktop application that generates customized filters. 
-  It captures the style of reference photo that users upload, and applies that style back to the photo they want to edit. 
+  Magic Hat is a photo editing application designed to help brands and individuals create aesthetically consistent, customized images enhanced to increase engagement
+
 team:
   picture: group_73.jpg
   roster:
   - name: Wenyi Chu
     email: wc625@cornell.edu
-    picture: wenyi.jpg
+    picture: Team_73_2.png
     program: CM
   - name: Mike Kosnik
     email: mbk233@cornell.edu
-    picture: mike.jpg
+    picture: Team_73_1.png
     program: MBA
   - name: Mimi Shih
     email: shihm042@newschool.edu
-    picture: mimi.jpg
+    picture: Team_73_5.png
     program: Design
   - name: Alice Song
     email: as2855@cornell.edu
-    picture: alice.jpg
+    picture: Team_73_4.png
     program: CS
   - name: Yuxin Zhang
     email: yz2579@cornell.edu
-    picture: yuxin.jpg
+    picture: Team_73_3.png
     program: ECE
 assets:
 - title: Sprint 1
@@ -35,4 +35,6 @@ assets:
   url: https://docs.google.com/presentation/d/125zQmM53eZ8WdsWGurLXDWWSemfwb8lKYCWqCnEkLWc/edit?usp=sharing
 - title: Sprint 3
   url: https://docs.google.com/presentation/d/1w_8Ao8829OUUp25c0_MGEL7j-QSBy7WMkoQYgZhi92U/edit?usp=sharing
+- title: Final Pitch
+  url: https://docs.google.com/presentation/d/1DmbMm7VEcRhvpNBhW9tg9JfhW441TA43UKZQcUoN488/edit?usp=sharing
 
